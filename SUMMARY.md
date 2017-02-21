@@ -7,4 +7,5 @@
 * [vim配置](vim.md)
 * [samba服务器](samba.md)
 * [IP绑定](ip.md)
+* [basicSetting](basicsetting.md)
 
