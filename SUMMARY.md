@@ -6,4 +6,5 @@
 * [zsh\_oh-my-zsh安装及配置](zsh_oh-my-zsh.md)
 * [vim配置](vim.md)
 * [samba服务器](samba.md)
+* [IP绑定](ip.md)
 
